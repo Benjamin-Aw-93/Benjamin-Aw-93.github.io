@@ -24,8 +24,8 @@ description              : "My Data Science Learning Journey"
 url                      : "https://benjamin-aw-93.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "benjamin-aw-93"
-teaser                   :  "/images/Data_banner.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "/images/data_icon.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
