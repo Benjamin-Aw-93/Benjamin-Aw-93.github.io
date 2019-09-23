@@ -311,7 +311,7 @@ defaults:
       author_profile: true
 
   # _foo
-  -scope:
+  - scope:
       path: ""
       type: foo
     values:
