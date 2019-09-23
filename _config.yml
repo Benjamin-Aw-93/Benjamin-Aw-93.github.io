@@ -86,16 +86,19 @@ naver_site_verification  :
 twitter:
   username               :
 facebook:
-  username               :
+  username               : "benjamin.aw.7"
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/images/teaser_image.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://www.facebook.com/benjamin.aw.7"
+    - "https://www.linkedin.com/in/benjamin-aw-25406b12b/"
+    - "https://github.com/Benjamin-Aw-93"
 
 # Analytics
 analytics:
@@ -110,12 +113,15 @@ author:
   name             : "Benjamin Aw"
   avatar           : "/images/Ben_Face.jpg"
   bio              : "Learning how to make data work"
-  location         : "Singapore"
+  location         : "Singapore, SG"
   email            : "benjaminaw2208@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:benjaminaw2208@gmail.com
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/benjamin-aw-25406b12b/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -138,6 +144,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/benjamin-aw-25406b12b/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/benjamin.aw.7"
