@@ -16,7 +16,11 @@ minimal_mistakes_skin    : "contrast" #"default", "air", "aqua", "dark", "dirt",
 
 # Site Settings
 locale                   : "en-US"
+<<<<<<< HEAD
 title                    : "Benjamin's Data Journey"
+=======
+title                    : "Benjamin''s Data Journey"
+>>>>>>> 56fbe5cb09a018b52b5aa2e985f2c4b7023ac873
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Benjamin Aw"
