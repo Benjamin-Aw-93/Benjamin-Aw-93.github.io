@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" #"default", "air", "aqua", "dark", "dirt",
 locale                   : "en-US"
 title                    : "Benjamin's Data Journey"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Growing and learning"
 name                     : "Benjamin Aw"
 description              : "My Data Science Learning Journey"
 url                      : "https://benjamin-aw-93.github.io"
