@@ -25,7 +25,7 @@ url                      : "https://benjamin-aw-93.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # "benjamin-aw-93"
 teaser                   : "/images/teaser_image.png"
-logo                     : "/images/icon_image.png"
+logo                     : 
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true #, false (default)
 words_per_minute         : 200
