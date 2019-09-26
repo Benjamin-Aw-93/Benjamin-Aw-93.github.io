@@ -114,7 +114,7 @@ author:
   avatar           : "/images/Ben_Face.jpg"
   bio              : "Learning how to make data work"
   location         : "Singapore, SG"
-  email            : "benjaminaw2208@gmail.com"
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
