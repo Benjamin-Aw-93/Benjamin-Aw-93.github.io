@@ -16,6 +16,3 @@ You can view my CV [here](https://benjamin-aw-93.github.io/CV/).
 # Work experience
 - Ministry of Manpower (2018 - )
   - Data Analyst
-    - Collaborated with business users and IT team to deploy machine learning model into production.
-    - Developed analytics models to help improve business process within the organisation. 
-    - Conducted technical, hands-on workshops for middle-managers and working level MOMers.
