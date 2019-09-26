@@ -116,9 +116,6 @@ author:
   location         : "Singapore, SG"
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:benjaminaw2208@gmail.com
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/benjamin-aw-25406b12b/"
@@ -134,6 +131,9 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/benjamin.aw.7"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:benjaminaw2208@gmail.com
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
