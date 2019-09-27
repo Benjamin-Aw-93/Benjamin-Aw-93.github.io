@@ -5,7 +5,7 @@ header:
   image: "/images/About_me.png"
 ---
 
-Welcome to my site. I will be using this platform as a way to document my learnings over the years.
+Welcome to my site. I will be using this platform as a way to document my learnings.
 
 You can view my CV [here](https://benjamin-aw-93.github.io/CV/).
 
