@@ -7,7 +7,7 @@ header:
 
 Welcome to my site. I will be using this platform as a way to document my learnings.
 
-You can view my CV [here](https://benjamin-aw-93.github.io/CV/).
+You can view my CV [here](https://benjamin-aw-93.github.io/files/Resume-Benjamin-Aw.pdf).
 
 # Education
 - National University of Singapore (2014)
