@@ -2,10 +2,8 @@
 title:  "Learnings from Data Arcade Tournament"
 date: 2019-11-13
 tags: [visualisation, competition]
-excerpt: "Testing my stuff"
+excerpt: "Reflections on our recent win"
 ---
-
-# Reflections on our recent win
 
 Insert intro here
 
