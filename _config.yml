@@ -25,7 +25,7 @@ url                      : "https://benjamin-aw-93.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # "benjamin-aw-93"
 teaser                   : "/images/teaser_image.png"
-logo                     : 
+logo                     :
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true #, false (default)
 words_per_minute         : 200
@@ -287,6 +287,13 @@ compress_html:
   ignore:
     envs: development
 
+#Collections
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
+
 
 # Defaults
 defaults:
@@ -316,3 +323,13 @@ defaults:
       type: foo
     values:
       layout: single
+
+
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
