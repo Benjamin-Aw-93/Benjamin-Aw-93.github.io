@@ -26,9 +26,6 @@ I think one of the main reasons why we won the tournament was because the team h
 
 It helps to also be the anchor of the team. There were many times where a teammate will suggest to look at other aspects of the data so that we are able to create those beautiful charts that we see online. While it was nice to have a dreamer/idealist on the team, before putting any charts onto the dashboard, we had to take a step back to ask ourselves, "How does this fit into our storyline?" If it doesn't, then the decision to scrape the idea had to be made. Sometimes, it is difficult to let go of ideas. But with a giant clock right in front of us ticking away, it made it a lot easier to trash ideas into the bin.  
 
-<p align="center">
-    <img src="https://media.giphy.com/media/QVP7DawXZitKYg3AX5/giphy.gif alt="Trash Bin" width="400" height="300" />
-</p>
 
 # Working as a team
 Hello there
