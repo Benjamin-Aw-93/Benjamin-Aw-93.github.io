@@ -30,7 +30,11 @@ It helps to also be the anchor of the team. There were many times where a teamma
 
 
 <p align="center">
+<<<<<<< HEAD
   <img width="600" height="200" src="https://media2.giphy.com/media/kDOFe1XbfBXMw9dgc2/giphy.gif?cid=790b76119dd923fffab05b42f7f19f273b6693e6af36b42e&rid=giphy.gif">
+=======
+  <img width="600" height="200" src="https://giphy.com/embed/kDOFe1XbfBXMw9dgc2">
+>>>>>>> 3b1e0ec29acfd4d6edba5520befc5b32c5da7432
 </p>
 
 # Working as a team
