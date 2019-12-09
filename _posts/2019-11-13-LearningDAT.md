@@ -55,12 +55,12 @@ Within the team, each of our roles were defined clearly.
 The story-teller's job is to create the path to guide our audience along. Their job is to ensure that there is a coherent narrative and that each idea flows smoothly to the next, like fine wine. Without the story-teller, the dashboard would turn into an infographic instead.  
 
 ## The painter
-The painter's job is to create visuals to mesmerise our audience. There is no need to use fanciful colours and visuals to trap your audience. Sometimes, a chart's beauty is in it's simplicity. Without the painter, the dashboard would turn into a static report instead.
+The painter's job is to create visuals to mesmerise our audience. There is no nseed to use fanciful colours and visuals to trap your audience. Sometimes, a chart's beauty is in it's simplicity. Without the painter, the dashboard would turn into a static report instead.
 
 ## The miner
 The miner's job is the most important of them all. Because without them, there is no data to analyse. Their job is to dig deep into the data to find the gems which support our hypotheses. Without the miner, analysis done would only be surface level and not substantial.
 
-Everyone played a pivotal role during the competition and I think that was the other reason for our success.
+Each one of us played a pivotal role during the competition and without any one, I do not think winning the competition would be possible.
 
 # Support from Management
 
