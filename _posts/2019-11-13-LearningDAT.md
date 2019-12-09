@@ -26,6 +26,11 @@ I think one of the main reasons why we won the tournament was because the team h
 
 It helps to also be the anchor of the team. There were many times where a teammate will suggest to look at other aspects of the data so that we are able to create those beautiful charts that we see online. While it was nice to have a dreamer/idealist on the team, before putting any charts onto the dashboard, we had to take a step back to ask ourselves, "How does this fit into our storyline?" If it doesn't, then the decision to scrape the idea had to be made. Sometimes, it is difficult to let go of ideas. But with a giant clock right in front of us ticking away, it made it a lot easier to trash ideas into the bin.  
 
+<p align="center">
+  <img src="https://media.giphy.com/media/QVP7DawXZitKYg3AX5/giphy.gif><br>
+  Bin it like you mean it
+</p>
+
 # Working as a team
 It is important that you learn to work along side with others to complement on each other's strengths and cover each other weakness. While the saying "More is always better" does not always hold true, "The more diverse the better" seems to have stood against the test of time yet again.
 
@@ -43,7 +48,7 @@ The painter's job is to create visuals to mesmerise our audience. There is no ne
 ## The miner
 The miner's job is the most important of them all. Because without them, there is no data to analyse. Their job is to dig deep into the data to find the gems which support our hypotheses. Without the miner, analysis done would only be surface level and not substantial.
 
-Everyone played a pivotal role during the competition and I think that was the other reason for our success. 
+Everyone played a pivotal role during the competition and I think that was the other reason for our success.
 
 # Support from Management
 
