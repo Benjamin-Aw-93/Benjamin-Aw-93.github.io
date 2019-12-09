@@ -30,11 +30,13 @@ It helps to also be the anchor of the team. There were many times where a teamma
 <p align="center">
   <img width="400" height="200" src="https://media2.giphy.com/media/kDOFe1XbfBXMw9dgc2/giphy.gif?cid=790b76119dd923fffab05b42f7f19f273b6693e6af36b42e&rid=giphy.gif">
 </p>
-<p align="center">This is a centered caption for the image<p align="center">
+<p align="center">Bin it like you mean it<p align="center">
 
 
 # Working as a team
 
+Hello there
+
 # Support from Management
 
-Conclusion
+# Conclusion
