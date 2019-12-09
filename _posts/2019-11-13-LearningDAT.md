@@ -76,4 +76,18 @@ Each one of us played a pivotal role during the competition and without any one,
 
 # Support from Management
 
-# Conclusion
+Lastly, all these could not have happen if not for the support of upper management. In a world that is driven by data, it is imperative that higher management recgonises the use and the value of using data. With their full blessing, we could set time aside during work to participate in this tournament. It is highly likely that if we had our full workload on top of the tournament, we would have lost steam and dropped out from the competition. After all, your work would affect your appraisal, this competition does not. Allowing participants to set time aside to work on their side projects gives them a chance to grow professionally, which is actually beneficial for the Ministry in the long run too.
+
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/31liAeCE1humI/giphy.gif?cid=790b7611c6c2f708c560d2347c0c181fec59f8a0257a0556&rid=giphy.gif" width="400" height="325"><br>
+  You drive me crazy
+</p>
+
+<p align="center">
+  . . .
+</p>
+
+Note: These are my personal views and you may or may not agree with them. My intention was not to write about how to win the data arcade tournament but to talk about my own personal learnings, the importance of a good data culture in the workplace. These are just some pointers that I wanted to share.
+
+Your experience may be very different from the one I had described above. I encourage you to share your experience in comments below or write separately about it. It would be great help for future participants.
