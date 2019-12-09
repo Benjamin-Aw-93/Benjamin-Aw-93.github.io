@@ -31,6 +31,9 @@ It helps to also be the anchor of the team. There were many times where a teamma
   Bin it like you mean it
 </p>
 
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+
+
 # Working as a team
 It is important that you learn to work along side with others to complement on each other's strengths and cover each other weakness. While the saying "More is always better" does not always hold true, "The more diverse the better" seems to have stood against the test of time yet again.
 
