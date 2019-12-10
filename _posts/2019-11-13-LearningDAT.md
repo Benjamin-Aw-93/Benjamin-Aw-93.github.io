@@ -62,7 +62,7 @@ The story-teller's job is to create the path to guide our audience along. Their 
   <img src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" width="400" height="325">
 </p>
 
-The painter's job is to create visuals to mesmerise our audience. There is no nseed to use fanciful colours and visuals to trap your audience. Sometimes, a chart's beauty is in it's simplicity. Without the painter, the dashboard would turn into a static report instead.
+The painter's job is to create visuals to mesmerise our audience. There is no need to use fanciful colours and visuals to trap your audience. Sometimes, a chart's beauty is in it's simplicity. Without the painter, the dashboard would turn into a static report instead.
 
 ## The miner
 
