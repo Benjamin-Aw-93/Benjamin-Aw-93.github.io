@@ -1,3 +1,5 @@
+
+
 <meta charset="utf-8">
 
 {% include seo.html %}
@@ -28,6 +30,11 @@
     }
   </style>
 <![endif]-->
+
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
+
 
 {% if site.head_scripts %}
   {% for script in site.head_scripts %}
